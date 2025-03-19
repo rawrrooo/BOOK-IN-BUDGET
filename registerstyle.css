@@ -1,0 +1,72 @@
+
+body{
+    background:linear-gradient(to right, rgb(48, 51, 125),rgb(3, 7, 91))
+}
+.container{
+    margin:100px;
+    margin-left:350px;
+    display:flex;
+    justify-content: center;
+    width:50%;
+    height:60%;
+    background-color: rgb(227, 173, 254);
+    border:transparent;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0px 5px 15px rgba(0, 0, 0, 0.556);
+    position: relative;
+    transition: ease 0.3s;
+}
+.container:hover{
+    transform:scale(1.1);
+    box-shadow:0px 6px 16px;
+}
+.container button{
+    font-size:25px;
+    background-color: rgba(255, 84, 127, 0.527);
+    border-width:3px 4px;
+    border:transparent;
+    border-radius:6px;
+    padding:10px 35px;
+    margin-top:40px;
+    transition:ease 0.3s;
+    font-family:"Josefin Sans";
+    font-weight:600;
+}
+.container button:hover{
+    transform:scale(1.1);
+    color:rgba(249, 127, 194, 0.792);;
+    background-color:black;
+    box-shadow:0px 6px 16px;
+}
+.container form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container input{
+    width:60vh;
+    height:5vh;
+    font-size:20px;
+    margin:8px 0;
+    background-color:antiquewhite;
+    border:transparent;
+    border-radius:6px;
+    transition:ease 0.3s;
+}
+.container input:hover{
+    transform:scale(1.1);
+    box-shadow:0px 6px 16px;
+}
+h1{
+   font-size: 40px;
+   font-family:Josefin Sans;
+}
+.container a{
+    text-decoration:none;
+    font-size:16px;
+    color:rgb(34, 107, 107);
+    display:flex;
+    margin:6px 0;
+}

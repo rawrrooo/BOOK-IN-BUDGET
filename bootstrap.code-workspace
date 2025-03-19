@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/2.1+Heading+Element/2.1 Heading Element"
+		},
+		{
+			"path": "../../Downloads/6.3+CSS+Box+Model/6.3 CSS Box Model"
+		},
+		{
+			"path": "../../Downloads/6.4+Motivation+Meme+Project/6.4 Motivation Meme Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projectmini BIB"
+	}
+}
